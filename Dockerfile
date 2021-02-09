@@ -10,4 +10,4 @@ EXPOSE 5000
 
 WORKDIR ./app
 
-CMD [ "python3", "sum.py" ]
+CMD [ "python3", "prodotto.py" ]
